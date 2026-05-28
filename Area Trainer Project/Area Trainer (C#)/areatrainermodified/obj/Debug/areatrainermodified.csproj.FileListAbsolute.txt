@@ -1,0 +1,5 @@
+/Users/emily/Desktop/areatrainermodified/areatrainermodified/bin/Debug/areatrainermodified.exe
+/Users/emily/Desktop/areatrainermodified/areatrainermodified/bin/Debug/areatrainermodified.pdb
+/Users/emily/Desktop/areatrainermodified/areatrainermodified/obj/Debug/areatrainermodified.csprojAssemblyReference.cache
+/Users/emily/Desktop/areatrainermodified/areatrainermodified/obj/Debug/areatrainermodified.exe
+/Users/emily/Desktop/areatrainermodified/areatrainermodified/obj/Debug/areatrainermodified.pdb
