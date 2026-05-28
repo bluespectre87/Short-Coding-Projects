@@ -1,6 +1,0 @@
-# Area Trainer Project
-
-## Aim
-This program takes a series of dimension inputs as well as shape type from a user and facilitates generation of its area - due to the requirment for levereging math functions, data structures, etc I find this to be a useful project to tackle when I begin learning a language to familiarise myself with its syntax and logic requirements.
-
-This folder contains examples of this with iterations I designed in C# and C.
