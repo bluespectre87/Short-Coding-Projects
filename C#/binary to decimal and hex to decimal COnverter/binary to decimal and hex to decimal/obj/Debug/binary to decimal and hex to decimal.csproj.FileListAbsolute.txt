@@ -1,0 +1,6 @@
+C:\Users\aliso\Desktop\binary to decimal and hex to decimal\binary to decimal and hex to decimal\bin\Debug\binary to decimal and hex to decimal.exe.config
+C:\Users\aliso\Desktop\binary to decimal and hex to decimal\binary to decimal and hex to decimal\bin\Debug\binary to decimal and hex to decimal.exe
+C:\Users\aliso\Desktop\binary to decimal and hex to decimal\binary to decimal and hex to decimal\bin\Debug\binary to decimal and hex to decimal.pdb
+C:\Users\aliso\Desktop\binary to decimal and hex to decimal\binary to decimal and hex to decimal\obj\Debug\binary to decimal and hex to decimal.csprojAssemblyReference.cache
+C:\Users\aliso\Desktop\binary to decimal and hex to decimal\binary to decimal and hex to decimal\obj\Debug\binary to decimal and hex to decimal.exe
+C:\Users\aliso\Desktop\binary to decimal and hex to decimal\binary to decimal and hex to decimal\obj\Debug\binary to decimal and hex to decimal.pdb

@@ -1,0 +1,6 @@
+/Users/emilyspicer-jones/Desktop/lcmOfMultipleNumbers/lcmOfMultipleNumbers/bin/Debug/lcmOfMultipleNumbers.exe
+/Users/emilyspicer-jones/Desktop/lcmOfMultipleNumbers/lcmOfMultipleNumbers/bin/Debug/lcmOfMultipleNumbers.pdb
+/Users/emilyspicer-jones/Desktop/lcmOfMultipleNumbers/lcmOfMultipleNumbers/obj/Debug/lcmOfMultipleNumbers.csproj.AssemblyReference.cache
+/Users/emilyspicer-jones/Desktop/lcmOfMultipleNumbers/lcmOfMultipleNumbers/obj/Debug/lcmOfMultipleNumbers.csproj.CoreCompileInputs.cache
+/Users/emilyspicer-jones/Desktop/lcmOfMultipleNumbers/lcmOfMultipleNumbers/obj/Debug/lcmOfMultipleNumbers.exe
+/Users/emilyspicer-jones/Desktop/lcmOfMultipleNumbers/lcmOfMultipleNumbers/obj/Debug/lcmOfMultipleNumbers.pdb

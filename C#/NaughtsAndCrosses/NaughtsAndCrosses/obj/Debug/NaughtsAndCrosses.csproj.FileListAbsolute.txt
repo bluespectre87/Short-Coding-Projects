@@ -1,0 +1,6 @@
+/Users/emilyspicer-jones/Desktop/NaughtsAndCrosses/NaughtsAndCrosses/bin/Debug/NaughtsAndCrosses.exe
+/Users/emilyspicer-jones/Desktop/NaughtsAndCrosses/NaughtsAndCrosses/bin/Debug/NaughtsAndCrosses.pdb
+/Users/emilyspicer-jones/Desktop/NaughtsAndCrosses/NaughtsAndCrosses/obj/Debug/NaughtsAndCrosses.csprojAssemblyReference.cache
+/Users/emilyspicer-jones/Desktop/NaughtsAndCrosses/NaughtsAndCrosses/obj/Debug/NaughtsAndCrosses.csproj.CoreCompileInputs.cache
+/Users/emilyspicer-jones/Desktop/NaughtsAndCrosses/NaughtsAndCrosses/obj/Debug/NaughtsAndCrosses.exe
+/Users/emilyspicer-jones/Desktop/NaughtsAndCrosses/NaughtsAndCrosses/obj/Debug/NaughtsAndCrosses.pdb

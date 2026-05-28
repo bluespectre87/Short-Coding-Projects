@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lcmOfMultipleNumbers", "lcmOfMultipleNumbers\lcmOfMultipleNumbers.csproj", "{864C17E5-39E2-4844-B2C5-431EB73772CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864C17E5-39E2-4844-B2C5-431EB73772CB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{864C17E5-39E2-4844-B2C5-431EB73772CB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{864C17E5-39E2-4844-B2C5-431EB73772CB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{864C17E5-39E2-4844-B2C5-431EB73772CB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B865B3A9-93F4-4538-BA33-6B0BFBEEEB5D}
+	EndGlobalSection
+EndGlobal

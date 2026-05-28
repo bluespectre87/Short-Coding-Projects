@@ -1,0 +1,6 @@
+C:\Users\aliso\Desktop\dictionary songs list task\dictionary songs list task\bin\Debug\dictionary songs list task.exe.config
+C:\Users\aliso\Desktop\dictionary songs list task\dictionary songs list task\bin\Debug\dictionary songs list task.exe
+C:\Users\aliso\Desktop\dictionary songs list task\dictionary songs list task\bin\Debug\dictionary songs list task.pdb
+C:\Users\aliso\Desktop\dictionary songs list task\dictionary songs list task\obj\Debug\dictionary songs list task.csprojAssemblyReference.cache
+C:\Users\aliso\Desktop\dictionary songs list task\dictionary songs list task\obj\Debug\dictionary songs list task.exe
+C:\Users\aliso\Desktop\dictionary songs list task\dictionary songs list task\obj\Debug\dictionary songs list task.pdb

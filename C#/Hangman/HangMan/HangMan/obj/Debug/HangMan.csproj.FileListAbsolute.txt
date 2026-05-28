@@ -1,0 +1,6 @@
+/Users/emilyspicer-jones/Desktop/HangMan/HangMan/bin/Debug/HangMan.exe
+/Users/emilyspicer-jones/Desktop/HangMan/HangMan/bin/Debug/HangMan.pdb
+/Users/emilyspicer-jones/Desktop/HangMan/HangMan/obj/Debug/HangMan.csproj.AssemblyReference.cache
+/Users/emilyspicer-jones/Desktop/HangMan/HangMan/obj/Debug/HangMan.csproj.CoreCompileInputs.cache
+/Users/emilyspicer-jones/Desktop/HangMan/HangMan/obj/Debug/HangMan.exe
+/Users/emilyspicer-jones/Desktop/HangMan/HangMan/obj/Debug/HangMan.pdb
